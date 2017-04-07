@@ -32,7 +32,7 @@ L'administrateur de ces instances n'a pas ouvert les inscriptions, ce sont des i
 
 ## Peut-on certifier son compte ?
 
-Non, ce principe n'existe pas contrairement à Twitter.
+Oui, on peut le certifier en utilisant sa propre instance avec son nom de domaine.
 
 # Se connecter à Mastodon
 
